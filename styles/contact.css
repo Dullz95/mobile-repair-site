@@ -1,0 +1,17 @@
+#Contact {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 10%;
+}
+.contact-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.contact-wrapper > div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  float: left;
+}
