@@ -17,17 +17,7 @@
 
 .button {
   background-color: #f26522;
-  padding: 2% 4%;
-  color: white;
-  text-decoration: none;
-  white-space: nowrap;
-  text-transform: uppercase;
-  font-weight: 600;
-  transition: all 0.3s;
-}
-.button {
-  background-color: #f26522;
-  padding: 2% 4%;
+  padding: 10px 20px;
   color: white;
   text-decoration: none;
   white-space: nowrap;

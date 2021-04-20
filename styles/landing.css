@@ -74,6 +74,10 @@
   width: 100%;
   text-align: center;
   display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 3%;
+  font-weight: bolder;
 }
 
 /* The dots/bullets/indicators */
